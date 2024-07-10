@@ -1,5 +1,5 @@
 # Data Scientist
-### Technical Skills: SQl, Python, R, Power BI, Tableau, Excell.
+### Technical Skills: SQL, Python, R, Power BI, Tableau, Excell.
 ## Education
 - MSc of Data Science, | konkuk University, Seoul, Korea (_August 2024_)
 - Korean intensive course, | Chonnam National University, Gwangju, Korea (_August 2021_)
