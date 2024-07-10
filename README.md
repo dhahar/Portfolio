@@ -8,7 +8,8 @@
 **Research assistant @ Konkuk University, Seoul, south Korea, (_August 20222- june 2024_ )**
 - Conduct regression and classification analyses on datasets provided by the professor's lab.
 - Performed exploratory data analysis to identify patterns and insights relevant to the research objectives. 
-- Analyzed temporal data to understand patterns, trends, and seasonality using appropriate statistical techniques.**Wireless **Network Engineer @ Golis telecom, Bosaso, Somalia, (_March 2018- August 2020_ )**
+- Analyzed temporal data to understand patterns, trends, and seasonality using appropriate statistical techniques.
+**Wireless Network Engineer @ Golis telecom, Bosaso, Somalia, (_March 2018- August 2020_ )**
 - Planned the allocation of frequencies to different RF devices and services to minimize interference and
 maximize spectrum utilization.
 - created coverage plans to determine where antennas and base stations should be located to provide consistent
